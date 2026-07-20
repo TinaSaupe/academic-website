@@ -1,0 +1,68 @@
+---
+title: ""
+---
+
+<div class="hero">
+
+<div class="hero-text">
+
+<h1>Tina Saupe, PhD</h1>
+
+<p class="hero-position">
+Postdoctoral Researcher in Ancient Biomolecules
+</p>
+
+<p class="hero-affiliation">
+Department of Biology, University of Turku, Finland
+</p>
+
+<div class="hero-links">
+
+<a href="mailto:tina.saupe@utu.fi">
+<i class="bi bi-envelope"></i> Email
+</a>
+
+<a href="https://scholar.google.com/citations?user=4ME-mJYAAAAJ&hl=en">
+<i class="bi bi-mortarboard"></i> Scholar
+</a>
+
+<a href="https://orcid.org/0000-0003-1489-9646">
+<i class="bi bi-person-badge"></i> ORCID
+</a>
+
+<a href="https://github.com/TinaSaupe">
+<i class="bi bi-github"></i> GitHub
+</a>
+
+<a href="https://bsky.app/profile/tinasaupe.bsky.social">
+<i class="bi bi-bluesky"></i> Bluesky
+</a>
+
+</div>
+
+</div>
+
+<div class="hero-photo">
+
+<img src="assets/images/profile-photo.jpg"
+     alt="Portrait of Tina Saupe"
+     class="profile-photo">
+
+</div>
+
+</div>
+
+---
+
+## About Me
+
+I am a Postdoctoral researcher in ancient Biomolecules at the University of Turku 🇫🇮.
+I conducted my PhD studies at the Institute of Genomics, University of Tartu 🇪🇪 and defended my dissertation titled The genetic history of the Mediterranean before the common era: a focus on the Italian Peninsula in August 2022. My research has mainly focused on the demographic history of the Mediterrean Basin during the Bronze Age period, however, I finally have decided to move on and will focus on Finnish population studies now.
+
+In addition, in 2023, I co-founded the open and international Human Ancient DNA, Ancestry and Mobility (HAAM-) community for early career researchers studying human population history, ancestry & mobility through ancient DNA.
+
+## Research Interests
+
+Human Population Genetics
+
+

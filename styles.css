@@ -1,0 +1,64 @@
+/* ---------- Hero ---------- */
+
+.hero {
+  display: grid;
+  grid-template-columns: 1.6fr 1fr;
+  gap: 4rem;
+  align-items: center;
+
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+}
+
+.hero-text h1 {
+  font-size: 3rem;
+  margin-bottom: .5rem;
+}
+
+.hero-position {
+  font-size: 1.2rem;
+  margin-bottom: .2rem;
+}
+
+.hero-affiliation {
+  color: #666;
+  margin-bottom: 2rem;
+}
+
+.hero-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.hero-links a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.hero-photo {
+  display: flex;
+  justify-content: center;
+}
+
+.profile-photo {
+  width: 260px;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+/* ---------- Mobile ---------- */
+
+@media (max-width: 900px) {
+
+  .hero {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .hero-links {
+    justify-content: center;
+  }
+
+}

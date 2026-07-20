@@ -1,0 +1,19 @@
+{
+  "name": "Quarto Academic Website",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {}
+  },
+
+  "postCreateCommand": "bash .devcontainer/install-quarto.sh",
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "quarto.quarto",
+        "yzhang.markdown-all-in-one"
+      ]
+    }
+  }
+}

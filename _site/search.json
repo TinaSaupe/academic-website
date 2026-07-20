@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "My projects."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nTina Saupe, PhD\n",
+    "section": "",
+    "text": "Postdoctoral Researcher in Ancient Biomolecules\n\n\nDepartment of Biology, University of Turku, Finland\n\n\n  Email \n  Scholar \n  ORCID \n  GitHub \n  Bluesky"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "\nTina Saupe, PhD\n",
+    "section": "About Me",
+    "text": "About Me\nI am a Postdoctoral researcher in ancient Biomolecules at the University of Turku 🇫🇮. I conducted my PhD studies at the Institute of Genomics, University of Tartu 🇪🇪 and defended my dissertation titled The genetic history of the Mediterranean before the common era: a focus on the Italian Peninsula in August 2022. My research has mainly focused on the demographic history of the Mediterrean Basin during the Bronze Age period, however, I finally have decided to move on and will focus on Finnish population studies now.\nIn addition, in 2023, I co-founded the open and international Human Ancient DNA, Ancestry and Mobility (HAAM-) community for early career researchers studying human population history, ancestry & mobility through ancient DNA."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "\nTina Saupe, PhD\n",
+    "section": "Research Interests",
+    "text": "Research Interests\nHuman Population Genetics"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "My blog."
+  },
+  {
+    "objectID": "curriculumvitae.html",
+    "href": "curriculumvitae.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "My CV."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "My talks."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
