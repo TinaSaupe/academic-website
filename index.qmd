@@ -13,7 +13,8 @@ Postdoctoral Researcher in Ancient Biomolecules
 </p>
 
 <p class="hero-affiliation">
-Department of Biology, University of Turku, Finland
+Department of Biology <br>
+University of Turku, Finland
 </p>
 
 <div class="hero-links">
@@ -63,6 +64,6 @@ In addition, in 2023, I co-founded the open and international Human Ancient DNA,
 
 ## Research Interests
 
-Human Population Genetics
+* Human Population Genetics * Anthropology * Ancient Biomolecules * Languages
 
 
