@@ -2,16 +2,16 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Research",
+    "title": "Tina Saupe",
     "section": "",
-    "text": "My research."
+    "text": "Ongoing research."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "Tina Saupe",
     "section": "",
-    "text": "My projects."
+    "text": "List of selected projects.\n\nSince February 2025: Study of Finnish population using ancient DNA\n\nWorkplace: University of Turku (Finland)\nPosition: Postdoctoral Researcher\n\nSince February 2023: BronzeAgeRake - Disentangling the human past in the Middle East during the Bronze Age using ancient DNA\n\nWorkplace: Uppsala University (Sweden)\nPosition: Lead\n\nSince February 2022: ERC-funded project Ancestors (funded 2020-2025)\n\nWorkplace: mainly University of Tartu (Estonia)\nPosition: Research Assistant"
   },
   {
     "objectID": "index.html",
@@ -25,7 +25,7 @@
     "href": "index.html#about-me",
     "title": "\nTina Saupe, PhD\n",
     "section": "About Me",
-    "text": "About Me\nI am a Postdoctoral researcher in ancient Biomolecules at the University of Turku 🇫🇮. I conducted my PhD studies at the Institute of Genomics, University of Tartu 🇪🇪 and defended my dissertation titled The genetic history of the Mediterranean before the common era: a focus on the Italian Peninsula in August 2022. My research has mainly focused on the demographic history of the Mediterrean Basin during the Bronze Age period, however, I finally have decided to move on and will focus on Finnish population studies now.\nIn addition, in 2023, I co-founded the open and international Human Ancient DNA, Ancestry and Mobility (HAAM-) community for early career researchers studying human population history, ancestry & mobility through ancient DNA."
+    "text": "About Me\nCurrently I am a Postdoctoral researcher in ancient Biomolecules in the Human Diversity consortium at the University of Turku 🇫🇮.\nI conducted my PhD studies at the Institute of Genomics, University of Tartu 🇪🇪 and defended my dissertation titled The genetic history of the Mediterranean before the common era: a focus on the Italian Peninsula in August 2022. My research has mainly focused on the demographic history of the Mediterrean Basin during the Bronze Age period, however, I finally have decided to move on and will focus on Finnish population studies now.\nIn addition, in 2023, I co-founded the open and international Human Ancient DNA, Ancestry and Mobility (HAAM-)community for early career researchers studying human population history, ancestry & mobility through ancient DNA."
   },
   {
     "objectID": "index.html#research-interests",
@@ -44,16 +44,16 @@
   {
     "objectID": "curriculumvitae.html",
     "href": "curriculumvitae.html",
-    "title": "Curriculum vitae",
+    "title": "Tina Saupe",
     "section": "",
-    "text": "My CV."
+    "text": "This is a shortened version of my CV. Please find my detailed curriculum vitea here.\n\n\n\nPh.D in Gene Technology @University of Tartu 🇪🇪, 2018 - 2022\nM.S. in Biological Anthropology @Johannes Gutenberg University Mainz 🇩🇪 , 2016 - 2018\nB.S. in Biotechnology/Bioinformatics @University of Applied Sciences Mittweida 🇩🇪, 2012 - 2016\nB.S. in Applied Bioscience with Forensic Investigation @University of the West of Scotland 🇬🇧, 2014 - 2015\n\n\n\n\n\nSince September 2025: Postdoctoral Researcher\n\nWorkplace: University of Turku (Finland)\nGroup leader: Elina Salmela\n\nMarch - August 2025: Research Assistant\n\nWorkplace: University of Tartu (Estonia)\nProject: Ancestors\nGroup leader: Toomas Kivisild, John Robb\n(also during September 2022 - February 2023)\n\nFebruary 2023 - January 2025: Postdoctoral Fellow\n\nWorkplace: Uppsala University (Sweden)\nProject: BronzeAgeRake - Disentangling the human past in the Middle East during the Bronze Age using ancient DNA\nGroupp leader: Mattias Jakobsson\n\nAugust 2018 - August 2022: PhD student\n\nWorkplace: University of Tartu (Estonia)\nSupervisor: Christiana L. Scheib, Luca Pagani, Toomas Kivisild, Mait Metspalu\n\nNovember 2017 - July 2018: Master student\n\nWorkplace: Institute for Mummy Studies (Bolzano)\nSupervisor: Valentina Coia\n\nMarch 2016 - September 2016: Bachelor student\n\nWorkplace: Max Planck Institute for the Science of human history\nSupervisor: Stephan Schiffels\n\n\n\n\n\n\nSeptember 2023 - June 2024: Supervision of Master student Andrea Soler i Núñez (MSc)\n\nWorkplace: Uppsala University (Sweden)\nTitle of Master thesis: Preliminary insights into the Bronze-to-Iron Age human demographic history of Pella (Jordan) using an ancient DNA approach\nAndrea is now PhD candidate in the Schlehbusch Group, Uppala University (Sweden)"
   },
   {
     "objectID": "talks.html",
     "href": "talks.html",
-    "title": "Talks",
+    "title": "Tina Saupe",
     "section": "",
-    "text": "My talks."
+    "text": "##Talks"
   },
   {
     "objectID": "about.html",
@@ -61,5 +61,103 @@
     "title": "About",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "funding.html",
+    "href": "funding.html",
+    "title": "Tina Saupe",
+    "section": "",
+    "text": "February 2023 - January 2025: Postdoctoral Fellowship\n\nPlace of performance: Uppsala University (Sweden)\nFunded by Wenner-Gren foundations based in Sweden\n\n\n\n\n\n\nJune 2024: Research grant\n\nPlace of performance: Uppsala University (Sweden)\nFunded by SPRI Grants for Genomic Research from Beckman Coulter Life Sciences\n\nJanuary 2024: Research grant\n\nPlace of performance: Uppsala University (Sweden)\nFunded by Swedish Phytogeographical Society\n\nJanuary 2024: Research grant\n\nPlace of performance: Uppsala University (Sweden)\nFunded by Stiftelse Lars Hiertas Minne\n\n\n\n\n\n\n\nFebruary - June 2018: PROMOS partial scholarship (DAAD)\nSeptember 2014 - May 2015: Erasmus+ program (EU) (100%)"
+  },
+  {
+    "objectID": "funding.html#personal-research-grants",
+    "href": "funding.html#personal-research-grants",
+    "title": "Funding",
+    "section": "",
+    "text": "February 2023 - January 2025: Postdoctoral Fellowship\n\nPlace of performance: Uppsala University (Sweden)\nFunded by Wenner-Gren foundations based in Sweden\n\n\n\n\n\n\nJune 2024: Research grant\n\nPlace of performance: Uppsala University (Sweden)\nFunded by SPRI Grants for Genomic Research from Beckman Coulter Life Sciences\n\nJanuary 2024: Research grant\n\nPlace of performance: Uppsala University (Sweden)\nFunded by Swedish Phytogeographical Society\n\nJanuary 2024: Research grant\n\nPlace of performance: Uppsala University (Sweden)\nFunded by Stiftelse Lars Hiertas Minne"
+  },
+  {
+    "objectID": "funding.html#personal-research-grants-1",
+    "href": "funding.html#personal-research-grants-1",
+    "title": "Funding",
+    "section": "Personal research grants",
+    "text": "Personal research grants\n\nFebruary - June 2018: PROMOS partial scholarship (DAAD)\nSeptember 2014 - May 2015: Erasmus+ program (EU) (100%)"
+  },
+  {
+    "objectID": "funding.html#other-grants",
+    "href": "funding.html#other-grants",
+    "title": "Tina Saupe",
+    "section": "Other grants",
+    "text": "Other grants\n\nFebruary - June 2018: PROMOS partial scholarship (DAAD)\nSeptember 2014 - May 2015: Erasmus+ program (EU) (100%)"
+  },
+  {
+    "objectID": "curriculumvitae.html#curriculum-vitae",
+    "href": "curriculumvitae.html#curriculum-vitae",
+    "title": "Tina Saupe",
+    "section": "",
+    "text": "This is a shortened version of my CV. Please find my detailed curriculum vitea here.\n\n\n\nPh.D in Gene Technology @University of Tartu 🇪🇪, 2018 - 2022\nM.S. in Biological Anthropology @Johannes Gutenberg University Mainz 🇩🇪 , 2016 - 2018\nB.S. in Biotechnology/Bioinformatics @University of Applied Sciences Mittweida 🇩🇪, 2012 - 2016\nB.S. in Applied Bioscience with Forensic Investigation @University of the West of Scotland 🇬🇧, 2014 - 2015\n\n\n\n\n\nSince September 2025: Postdoctoral Researcher\n\nWorkplace: University of Turku (Finland)\nGroup leader: Elina Salmela\n\nMarch - August 2025: Research Assistant\n\nWorkplace: University of Tartu (Estonia)\nProject: Ancestors\nGroup leader: Toomas Kivisild, John Robb\n(also during September 2022 - February 2023)\n\nFebruary 2023 - January 2025: Postdoctoral Fellow\n\nWorkplace: Uppsala University (Sweden)\nProject: BronzeAgeRake - Disentangling the human past in the Middle East during the Bronze Age using ancient DNA\nGroupp leader: Mattias Jakobsson\n\nAugust 2018 - August 2022: PhD student\n\nWorkplace: University of Tartu (Estonia)\nSupervisor: Christiana L. Scheib, Luca Pagani, Toomas Kivisild, Mait Metspalu\n\nNovember 2017 - July 2018: Master student\n\nWorkplace: Institute for Mummy Studies (Bolzano)\nSupervisor: Valentina Coia\n\nMarch 2016 - September 2016: Bachelor student\n\nWorkplace: Max Planck Institute for the Science of human history\nSupervisor: Stephan Schiffels\n\n\n\n\n\n\nSeptember 2023 - June 2024: Supervision of Master student Andrea Soler i Núñez (MSc)\n\nWorkplace: Uppsala University (Sweden)\nTitle of Master thesis: Preliminary insights into the Bronze-to-Iron Age human demographic history of Pella (Jordan) using an ancient DNA approach\nAndrea is now PhD candidate in the Schlehbusch Group, Uppala University (Sweden)"
+  },
+  {
+    "objectID": "funding.html#funding",
+    "href": "funding.html#funding",
+    "title": "Tina Saupe",
+    "section": "",
+    "text": "February 2023 - January 2025: Postdoctoral Fellowship\n\nPlace of performance: Uppsala University (Sweden)\nFunded by Wenner-Gren foundations based in Sweden\n\n\n\n\n\n\nJune 2024: Research grant\n\nPlace of performance: Uppsala University (Sweden)\nFunded by SPRI Grants for Genomic Research from Beckman Coulter Life Sciences\n\nJanuary 2024: Research grant\n\nPlace of performance: Uppsala University (Sweden)\nFunded by Swedish Phytogeographical Society\n\nJanuary 2024: Research grant\n\nPlace of performance: Uppsala University (Sweden)\nFunded by Stiftelse Lars Hiertas Minne\n\n\n\n\n\n\n\nFebruary - June 2018: PROMOS partial scholarship (DAAD)\nSeptember 2014 - May 2015: Erasmus+ program (EU) (100%)"
+  },
+  {
+    "objectID": "projects.html#projects",
+    "href": "projects.html#projects",
+    "title": "Tina Saupe",
+    "section": "",
+    "text": "List of selected projects.\n\nSince February 2025: Study of Finnish population using ancient DNA\n\nWorkplace: University of Turku (Finland)\nPosition: Postdoctoral Researcher\n\nSince February 2023: BronzeAgeRake - Disentangling the human past in the Middle East during the Bronze Age using ancient DNA\n\nWorkplace: Uppsala University (Sweden)\nPosition: Lead\n\nSince February 2022: ERC-funded project Ancestors (funded 2020-2025)\n\nWorkplace: mainly University of Tartu (Estonia)\nPosition: Research Assistant"
+  },
+  {
+    "objectID": "research.html#curriculum-vitae",
+    "href": "research.html#curriculum-vitae",
+    "title": "Tina Saupe",
+    "section": "",
+    "text": "My research."
+  },
+  {
+    "objectID": "research.html#research",
+    "href": "research.html#research",
+    "title": "Tina Saupe",
+    "section": "",
+    "text": "Ongoing research."
+  },
+  {
+    "objectID": "talks.html#curriculum-vitae",
+    "href": "talks.html#curriculum-vitae",
+    "title": "Tina Saupe",
+    "section": "",
+    "text": "My talks."
+  },
+  {
+    "objectID": "talks.html#talks",
+    "href": "talks.html#talks",
+    "title": "Tina Saupe",
+    "section": "",
+    "text": "My talks."
+  },
+  {
+    "objectID": "talks.html#my-talks",
+    "href": "talks.html#my-talks",
+    "title": "Tina Saupe",
+    "section": "",
+    "text": "My talks."
+  },
+  {
+    "objectID": "projects.html#list-of-projects",
+    "href": "projects.html#list-of-projects",
+    "title": "Tina Saupe",
+    "section": "",
+    "text": "List of ongoing projects."
+  },
+  {
+    "objectID": "projects.html#list-of-selected-projects",
+    "href": "projects.html#list-of-selected-projects",
+    "title": "Tina Saupe",
+    "section": "",
+    "text": "List of ongoing projects."
   }
 ]
