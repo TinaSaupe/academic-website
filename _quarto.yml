@@ -11,6 +11,7 @@ website:
       - curriculumvitae.qmd
       - research.qmd
       - projects.qmd
+      - funding.qmd
       - talks.qmd
       - blog.qmd
       - about.qmd

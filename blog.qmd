@@ -1,5 +1,6 @@
 ---
-title: "Blog"
+title: ""
 ---
 
-My blog.
+## My Blog
+
