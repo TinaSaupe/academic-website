@@ -3,7 +3,7 @@
 ====================================================== */
 
 :root {
-  --accent: #7b2cbf;        /* BTS-inspired purple 💜 */
+  --accent: #7b2cbf;
   --accent-light: #f3e8ff;
   --text: #2d2d2d;
   --muted: #666666;
@@ -20,6 +20,20 @@ body {
 }
 
 /* ======================================================
+   Global page width
+====================================================== */
+
+.container,
+.container-fluid {
+  max-width: 1200px !important;
+}
+
+#quarto-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* ======================================================
    Hero section
 ====================================================== */
 
@@ -30,7 +44,7 @@ body {
 
   align-items: start;
 
-  max-width: 1200px;
+  width: 100%;
 
   margin: 2rem auto 3rem auto;
   padding-bottom: 2rem;
@@ -51,14 +65,12 @@ body {
 .hero-position {
   font-size: 1.2rem;
   font-weight: 500;
-
   margin: 0;
 }
 
 .hero-affiliation {
   font-size: 1rem;
   color: var(--muted);
-
   line-height: 1.5;
 
   margin-top: .2rem;
@@ -86,10 +98,10 @@ body {
 }
 
 .hero-links a:hover {
-    background: var(--accent-light);
-    color: var(--accent);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(123,44,191,.15);
+  background: var(--accent-light);
+  color: var(--accent);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(123,44,191,.15);
 }
 
 .hero-links i {
@@ -127,18 +139,18 @@ h2 {
 }
 
 h2::after {
-    content: "";
-    display: block;
-    width: 70px;
-    height: 4px;
-    margin-top: .4rem;
-    border-radius: 2px;
+  content: "";
+  display: block;
+  width: 70px;
+  height: 4px;
+  margin-top: .4rem;
+  border-radius: 2px;
 
-    background: linear-gradient(
-        90deg,
-        #d8b4fe,
-        #7b2cbf
-    );
+  background: linear-gradient(
+    90deg,
+    #d8b4fe,
+    #7b2cbf
+  );
 }
 
 /* ======================================================
@@ -146,7 +158,7 @@ h2::after {
 ====================================================== */
 
 p {
-  max-width: 750px;
+  max-width: none;
 }
 
 /* ======================================================
@@ -156,6 +168,15 @@ p {
 .navbar {
   font-size: 1rem;
   background: #f3e8ff;
+}
+
+/* Match the navbar width to the page content */
+.navbar .container-fluid,
+.navbar .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-left: 8px;
+  padding-right: 0;
 }
 
 .navbar-nav .nav-link {
@@ -208,3 +229,4 @@ p {
   }
 
 }
+

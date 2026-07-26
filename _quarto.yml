@@ -3,8 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "Tina Saupe"
+  title: "Tina Saupe, PhD"
   navbar:
+    pinned: true
     left:
       - href: index.qmd
         text: Home
@@ -22,3 +23,6 @@ format:
       - cosmo
       - brand
     css: styles.css
+    page-layout: full
+
+
