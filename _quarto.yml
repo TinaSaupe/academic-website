@@ -9,12 +9,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - publications.qmd 
       - curriculumvitae.qmd
-      - research.qmd
       - projects.qmd
-      - funding.qmd
       - talks.qmd
       - blog.qmd
+      - archive.qmd
       - about.qmd
 
 format:
