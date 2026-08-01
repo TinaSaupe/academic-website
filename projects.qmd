@@ -13,6 +13,11 @@ List of selected projects.
 * Since February 2023: BronzeAgeRake - Disentangling the human past in the Middle East during the Bronze Age using ancient DNA
   * Workplace: Uppsala University (Sweden)
   * Position: Lead
+  
+founded by:
+<div style="display: flex; flex-direction: row; align-items: center; gap: 0.5rem;">
+  <img src="assets/logos/WennerGren.webp" alt="WennerGrenFoundation" width="150" height="100">
+</div>
 
 * Since February 2022: ERC-funded project <a href="https://www.theancestorsproject.org/">Ancestors<a/> (funded 2020-2025)
   * Workplace: mainly University of Tartu (Estonia)

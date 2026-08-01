@@ -1,0 +1,108 @@
+---
+title: ""
+---
+
+## Publications
+
+This is a selection of my publications. For a complete list, please visit my
+<a href="https://scholar.google.com/citations?user=4ME-mJYAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
+
+::: {.publication}
+
+::: {.publication-image}
+
+![](assets/publications_abstracts/Saupe2026BioRxiv.png){width=50% fig-alt="Let’s Tweap again: Economic and SNP retrieval optimisation for target enrichment of ancient DNA"}
+
+:::
+
+::: {.publication-content}
+
+### Let’s Tweap again: Economic and SNP retrieval optimisation for target enrichment of ancient DNA
+
+_BioRxiv_ · 2026 · ⭐ First author
+
+**Authors**  
+Tina Saupe *et al.*
+
+**Keywords**
+<span class="keyword">Ancient DNA</span>
+<span class="keyword">Target enrichment</span>
+<span class="keyword">Ancient Human Panel</span>
+<span class="keyword">Cost-optimisation</span>
+
+<a class="paper-button"
+href="https://doi.org/10.64898/2026.01.15.699081"
+target="_blank">
+📄 Read paper
+</a>
+
+:::
+
+:::
+
+::: {.publication}
+
+::: {.publication-image}
+
+![](assets/publications_abstracts/Aneli2022MBE.jpeg){width=60% fig-alt="The Genetic Origin of Daunians and the Pan-Mediterranean Southern Italian Iron Age Context"}
+
+:::
+
+::: {.publication-content}
+
+### The Genetic Origin of Daunians and the Pan-Mediterranean Southern Italian Iron Age Context
+
+_Molecular Biology and Evolution_ · 2022 · 🤝 Co-first author
+
+**Authors**  
+Serena Aneli, Tina Saupe *et al.*
+
+**Keywords**
+<span class="keyword">Ancient DNA</span>
+<span class="keyword">Daunians</span>
+<span class="keyword">Iron Age</span>
+<span class="keyword">Southern Italy</span>
+
+<a class="paper-button"
+href="https://doi.org/10.1093/molbev/msac014"
+target="_blank">
+📄 Read paper
+</a>
+
+:::
+
+:::
+
+::: {.publication}
+
+::: {.publication-image}
+
+![](assets/publications_abstracts/Saupe2021CurrentBiology.jpeg){width=70% fig-alt="Graphical abstract of Ancient genomes reveal structural shifts after the arrival of Steppe-related ancestry in the Italian Peninsula"}
+
+:::
+
+::: {.publication-content}
+
+### Ancient genomes reveal structural shifts after the arrival of Steppe-related ancestry in the Italian Peninsula
+
+_Current Biology_ · 2021 · 🤝 Co-first author
+
+**Authors**  
+Tina Saupe, Francesco Montinaro *et al.*
+
+**Keywords**
+<span class="keyword">Ancient DNA</span>
+<span class="keyword">Bronze Age</span>
+<span class="keyword">Italian Peninsula</span>
+<span class="keyword">Population history</span>
+<span class="keyword">Kinship</span>
+
+<a class="paper-button"
+href="https://doi.org/10.1016/j.cub.2021.04.022"
+target="_blank">
+📄 Read paper
+</a>
+
+:::
+
+:::
