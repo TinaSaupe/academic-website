@@ -44,6 +44,70 @@ target="_blank">
 
 ::: {.publication-image}
 
+![](assets/publications_abstracts/Morrone2025ArchSci.png){width=100% fig-alt="Reconstructing infant feeding practices through stable isotope analysis: applying intrabone sampling to a medieval–early modern Estonian dataset"}
+
+:::
+::: {.publication-content}
+
+### Reconstructing infant feeding practices through stable isotope analysis: applying intrabone sampling to a medieval–early modern Estonian dataset
+
+_Journal of Archaeological Science: Reports_ · 2025 · 🤝 Co-author
+
+**Authors**  
+Alessandra Morrone *et al.*
+
+**Keywords**
+<span class="keyword">Infant feeding practices</span>
+<span class="keyword">Stable isotope analysis</span>
+<span class="keyword">Intraindividual sampling</span>
+<span class="keyword">Physiological stress</span>
+
+<a class="paper-button"
+href="10.1016/j.jasrep.2025.105305"
+target="_blank">
+📄 Read paper
+</a>
+
+:::
+
+:::
+
+::: {.publication}
+
+::: {.publication-image}
+
+![](assets/publications_abstracts/Morrone2023PlosOne.PNG){width=100% fig-alt="Children of the grave: Investigating non-adult feeding practices in medieval and early modern Estonia through stable isotope analysis"}
+
+:::
+::: {.publication-content}
+
+### Children of the grave: Investigating non-adult feeding practices in medieval and early modern Estonia through stable isotope analysis
+
+_PLOS One_ · 2023 · 🤝 Co-author
+
+**Authors**  
+Alessandra Morrone *et al.*
+
+**Keywords**
+<span class="keyword">Estonia</span>
+<span class="keyword">Stable isotope analysis</span>
+<span class="keyword">non-adult study</span>
+<span class="keyword">breast-feeding</span>
+
+<a class="paper-button"
+href="https://doi.org/10.1371/journal.pone.0279546"
+target="_blank">
+📄 Read paper
+</a>
+
+:::
+
+:::
+
+::: {.publication}
+
+::: {.publication-image}
+
 ![](assets/publications_abstracts/Aneli2022MBE.jpeg){width=60% fig-alt="The Genetic Origin of Daunians and the Pan-Mediterranean Southern Italian Iron Age Context"}
 
 :::
