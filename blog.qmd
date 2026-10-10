@@ -1,6 +1,20 @@
 ---
-title: ""
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  grid-columns: 2
+  page-size: 9
+  categories: true
+  filter-ui: true
+  sort-ui: true
+  fields:
+    - date
+    - title
+    - description
+    - categories
 ---
 
-## Blog
 
+## Blog
