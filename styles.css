@@ -58,13 +58,10 @@ body {
   display: grid;
   grid-template-columns: minmax(0, 2fr) minmax(250px, 1fr);
   gap: 3rem;
-
   align-items: center;
-
   max-width: 1100px;
   margin: 2rem auto 3rem auto;
   padding-bottom: 2rem;
-
   border-bottom: 1px solid var(--border);
 }
 
@@ -75,7 +72,6 @@ body {
   font-weight: 700;
   line-height: 1.05;
   grid-column: 1;
-
   margin-bottom: 0.15rem;
 }
 
@@ -89,7 +85,6 @@ body {
   font-size: 1.5rem;
   color: var(--muted);
   line-height: 1.5;
-
   margin-top: .2rem;
   margin-bottom: 1.4rem;
 }
@@ -105,12 +100,9 @@ body {
 .hero-links a {
   text-decoration: none;
   color: var(--text);
-
   padding: .35rem .8rem;
-
   border: 1px solid var(--accent-light);
   border-radius: 999px;
-
   transition: all .2s ease;
 }
 
@@ -136,12 +128,9 @@ body {
 .profile-photo {
   width: 290px;
   height: 290px;
-
   object-fit: cover;
   border-radius: 50%;
-
   border: 5px solid #7b2cbf;
-
   box-shadow: 0 0 0 10px #f3e8ff;
 }
 
@@ -151,7 +140,6 @@ body {
 
 h2 {
   display: inline-block;
-
   margin-top: 3rem;
   margin-bottom: 1rem;
 }
@@ -163,12 +151,7 @@ h2::after {
   height: 4px;
   margin-top: .4rem;
   border-radius: 2px;
-
-  background: linear-gradient(
-    90deg,
-    #d8b4fe,
-    #7b2cbf
-  );
+  background: linear-gradient(90deg, #d8b4fe, #7b2cbf);
 }
 
 /* ======================================================
@@ -189,6 +172,7 @@ p {
 }
 
 /* Match the navbar width to the page content */
+
 .navbar .container-fluid,
 .navbar .container {
   max-width: 1200px;
@@ -206,26 +190,89 @@ p {
 }
 
 /* ======================================================
+   Blog archive cards
+====================================================== */
+
+.quarto-grid-item {
+  border: 1px solid var(--bs-border-color);
+  border-radius: 12px;
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.quarto-grid-item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 5px 18px rgba(0, 0, 0, 0.08);
+}
+
+.quarto-grid-item .listing-title {
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.quarto-grid-item .listing-description {
+  line-height: 1.6;
+}
+
+/* Widen the blog archive */
+
+#listing-list {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ======================================================
+   Blog category badges
+====================================================== */
+
+/* Base style for category labels */
+.listing-category {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  border: 1px solid transparent;
+}
+
+/* Conference — warm beige */
+.listing-category[onclick*="Q29uZmVyZW5jZQ=="] {
+  background-color: #fef3c7 !important;
+  color: #92400e !important;
+  border-color: #fcd34d !important;
+}
+
+/* Research — soft blue */
+.listing-category[onclick*="UmVzZWFyY2g="] {
+  background-color: #dbeafe !important;
+  color: #1d4ed8 !important;
+  border-color: #93c5fd !important;
+}
+
+/* ======================================================
    Mobile
 ====================================================== */
 
 @media (max-width: 900px) {
 
-.news-grid article {
+  .news-grid article {
     font-size: 0.85rem;
     line-height: 1.4;
-}
+  }
 
-.news h2 {
+  .news h2 {
     font-size: 1.35rem;
     margin-bottom: 0.5rem;
-}
+  }
 
-.news-grid article p {
+  .news-grid article p {
     margin-bottom: 0.35rem;
-}
+  }
 
   /* Hero */
+
   .hero {
     display: grid;
     grid-template-columns: 1fr;
@@ -276,55 +323,82 @@ p {
 }
 
 /* Hide page title on the homepage */
+
 #title-block-header {
   display: none;
 }
 
-/* Publication text*/
+/* ======================================================
+   Publication text
+====================================================== */
 
 .publication {
-    display: grid;
-    grid-template-columns: 320px 1fr;
-    gap: 2.5rem;
-    align-items: start;
-    max-width: 1000px;
-
-    padding: 1.5rem;
-    margin: 2.5rem 0;
-
-    border: 1px solid #e8e8e8;
-    border-radius: 12px;
-    background: white;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  gap: 2.5rem;
+  align-items: start;
+  max-width: 1000px;
+  padding: 1.5rem;
+  margin: 2.5rem 0;
+  border: 1px solid #e8e8e8;
+  border-radius: 12px;
+  background: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
 }
 
 .publication-image img {
-    width: 95%;
-    border-radius: 8px;
+  width: 95%;
+  border-radius: 8px;
 }
 
 .publication-content h3 {
-    max-width: 750px;
-    margin-top: 0;
+  max-width: 750px;
+  margin-top: 0;
 }
 
+/* Publication keyword tags */
+
 .keyword {
-    display: inline-block;
-    background: rgba(147, 51, 234, .08);
-    padding: 0.3rem 0.7rem;
-    border-radius: 20px;
-    margin: 0.2rem;
-    font-size: 0.85rem;
-    color: #7c3aed;
+  display: inline-block;
+  background: rgba(147, 51, 234, .08);
+  padding: 0.3rem 0.7rem;
+  border-radius: 20px;
+  margin: 0.2rem;
+  font-size: 0.85rem;
+  color: #7c3aed;
 }
 
 .paper-button {
-    display: inline-block;
-    padding: 0.6rem 1.2rem;
-    border-radius: 8px;
-    text-decoration: none;
-    background: #7c3aed;
-    color: white;
-    font-weight: 600;
-    padding: .6rem 1rem;
+  display: inline-block;
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  text-decoration: none;
+  background: #7c3aed;
+  color: white;
+  font-weight: 600;
 }
+
+/* ======================================================
+   Blog category colours — additional overrides
+====================================================== */
+
+/* Research */
+
+.quarto-listing .listing-categories .research,
+.quarto-listing .listing-category.research,
+.quarto-listing .quarto-category.research {
+  background-color: #dce9f8 !important;
+  color: #285a91 !important;
+  border-color: #c4d8f0 !important;
+}
+
+/* Conference */
+
+.quarto-listing .listing-categories .conference,
+.quarto-listing .listing-category.conference,
+.quarto-listing .quarto-category.conference {
+  background-color: #f8e8d2 !important;
+  color: #88551e !important;
+  border-color: #e8d0ad !important;
+}
+

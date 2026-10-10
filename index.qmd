@@ -6,9 +6,9 @@ title-block: false
 <section class="news">
   <h2>News</h2>
   <div class="news-grid">
+  <article>**[Blog]** New <a href="/posts/2026-10-10-research-update.qmd">Blog </a>: SAP-Meeting in Seili, Finland</article>
   <article>**[Worhshop]** New <a href="https://sites.utu.fi/humandiversity/events/course-reducing-the-gap-between-linguistics-and-genetics/">BIP-course</a> in Dec 2026 at University of Turku 🇫🇮</article>
   <article>**[Talk]** Jan 2026: Open <a href="https://sites.utu.fi/humandiversity/events/human-diversity-seminar-28-1-2026-t-saupe-t-kachkovskaia/">Human Diversity seminar</a></article>
-  <article>**[Position]** Sep 2025: Started new <a href="https://sites.utu.fi/humandiversity/news/hudi-has-three-new-postdocs/">Postdoctoral position</a> at University of Turku 🇫🇮</article>
 </div>
 
 </section>
