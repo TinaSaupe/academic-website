@@ -42,9 +42,12 @@ This is a shortened version of my CV. Please find my detailed curriculum vitea <
   * Workplace: Max Planck Institute for the Science of human history
   * Supervisor: <a href="https://www.stephanschiffels.de/">Stephan Schiffels<a/>
 
-### Supervision 
+### Supervision & Training
+* Janaury 2024 - May 2024: aDNA laboratory training of Mariam Omar Gómez (MSc)
+  * Location: Uppsala University (Sweden)
+  * Mariam is now PhD candidate in the <a href="https://www.larenalab.com/">Larena Lab and <a href="https://jakobssonlab.iob.uu.se/">Jakobsson Group, Uppala University (Sweden)</a>
 * September 2023 - June 2024: Supervision of Master student Andrea Soler i Núñez (MSc) 
-  * Workplace: Uppsala University (Sweden)
+  * Location: Uppsala University (Sweden)
   * Title of Master thesis: Preliminary insights into the Bronze-to-Iron Age human demographic history of Pella (Jordan) using an ancient DNA approach
   * Andrea is now PhD candidate in the <a href="https://i-am-an-african.net/">Schlehbusch Group, Uppala University (Sweden)</a>
 
